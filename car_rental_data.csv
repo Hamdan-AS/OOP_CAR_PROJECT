@@ -1,0 +1,1 @@
+type,username,password,first_name,last_name,address,balance,car_id,brand,model,seats,price_per_day,is_avail,rented_by,rental_id,client_id,days,start_date,end_date,total_cost,is_active
