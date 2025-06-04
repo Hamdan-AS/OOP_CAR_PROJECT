@@ -5,7 +5,7 @@
 📁 **Project Title:** Car Rental System  
 🎓 **Course:** CS-116 - Object Oriented Programming  
 📅 **Semester:** Spring 2025  
-👨‍💻 **Developers:** [Muhammad Taha Siddiqui(CS-122), Muhmmad Anas Malick(CS-124), Hamdan(CS-129)]  
+👨‍💻 **Developers:** [Taha,Anas, Hamdan]  
 💻 **Language:** Python 3.x  
 📄 **Main File:** `MASTER_FINALE.py`  
 📦 **Data Files:** `cars.csv`, `users.csv` and others  
